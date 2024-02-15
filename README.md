@@ -1,4 +1,4 @@
-### Olá! Eu sou a Isabella Pereira. estudante de desenvolvimento!
+### Olá! Eu sou a Isabella Pereira, project manager e estudante de desenvolvimento!
 ##
 - 🌍 Moro no Estado de São Paulo.
 - 👨🏾‍💻 Atualmente ocupo o cargo de Project Manager.
