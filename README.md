@@ -1,6 +1,10 @@
 ### Olá! Eu sou a Isabella Pereira 👋
 ##
-Estou estudando desenvolvimento Front-End e aprendendo as tecnologias abaixo.
+- 🌍 Moro no Estado de São Paulo.
+- 👨🏾‍💻 Atualmente ocupo o cargo de Project Manager.
+- 🎓 Formada em Gestão de Tecnologia da Informação.
+- 📚 Aprendendo as tecnologias Front-end.
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="bells-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bells-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -8,7 +12,7 @@ Estou estudando desenvolvimento Front-End e aprendendo as tecnologias abaixo.
   <img align="center" alt="bells-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bells-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
   ##
  Se quiser entrar em contato, aqui estão minhas redes sociais!
 <div> 
