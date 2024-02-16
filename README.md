@@ -1,4 +1,4 @@
-### Olá! Eu sou a Isabella Pereira, project manager e estudante de desenvolvimento!
+### Olá! Eu sou a Isabella Pereira, project manager na unico IDtech e estudante de desenvolvimento!
 ##
 - 🌍 Moro no Estado de São Paulo.
 - 👨🏾‍💻 Atualmente ocupo o cargo de Project Manager.
@@ -12,8 +12,13 @@
   <img align="center" alt="bells-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bells-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bells-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="bells-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img align="center" alt="bells-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img align="center" alt="bells-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img align="center" alt="bells-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img align="center" alt="bells-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="bells-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+  
   <img align="center" alt="bells-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" height="150" src="https://media.tenor.com/6Ja4z2BN2-gAAAAi/baby-yoda.gif">
 </div> 
