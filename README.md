@@ -1,4 +1,5 @@
-### Olá! Eu sou a Isabella Pereira, project manager na unico IDtech e estudante de desenvolvimento!
+### Olá! Eu sou a Isabella Pereira, 
+project manager na unico IDtech e estudante de desenvolvimento!
 ##
 - 🌍 Moro no Estado de São Paulo.
 - 👨🏾‍💻 Atualmente ocupo o cargo de Project Manager.
