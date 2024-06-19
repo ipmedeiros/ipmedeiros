@@ -4,6 +4,7 @@ project manager na unico IDtech e estudante de desenvolvimento Front-End!
 - 🌍 Moro no Estado de São Paulo.
 - 👨🏾‍💻 Atualmente ocupo o cargo de Project Manager.
 - 🎓 Formada em Gestão de Tecnologia da Informação.
+- 🎓Pós-Graduação em Engenharia e Planejamento DevOps
 - 📚 Aprendendo tecnologias Front-end.
 ##
 ### 🔥 Skills
