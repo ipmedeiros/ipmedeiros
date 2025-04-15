@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Isabella Pereira, 
-project manager na unico IDtech e estudante de desenvolvimento Front-End!
+Desenvolvedora Front-End!
 ##
 - 🌍 Moro no Estado de São Paulo.
 - 👨🏾‍💻 Atualmente ocupo o cargo de Project Manager.
