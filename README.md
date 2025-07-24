@@ -2,10 +2,10 @@
 Desenvolvedora Front-End!
 ##
 - 🌍 Moro no Estado de São Paulo.
-- 👨🏾‍💻 Atualmente ocupo o cargo de Project Manager.
+- 👨🏾‍💻 Atualmente ocupo o cargo Senior GRC Data Analyst.
 - 🎓 Formada em Gestão de Tecnologia da Informação.
-- 🎓Pós-Graduação em Engenharia e Planejamento DevOps
-- 📚 Aprendendo desenvolvimento Front-end.
+- 🎓Pós-Graduação em Engenharia e Planejamento DevOps e Engenharia de Software com Ênfase em Qualidade e Testes
+- 📚 Aprendendo desenvolvimento full-stack.
 ##
 ### 🔥 Skills
 <div style="display: inline_block"><br>
