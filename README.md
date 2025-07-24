@@ -1,5 +1,4 @@
 ### Olá! Eu sou a Isabella Pereira, 
-Desenvolvedora Front-End!
 ##
 - 🌍 Moro no Estado de São Paulo.
 - 👨🏾‍💻 Atualmente ocupo o cargo Senior GRC Data Analyst.
